@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 870b9a8ff6900ae479b100fde399ba7b
+timeCreated: 1504943887
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 0b387c7cf711cac30713825251f7edb7
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -0.6055548, y: 0.36656234, z: -0.550554}
+      lookAt: {x: 0.21464702, y: 0.09092268, z: 0.3851983}
+      up: {x: 0.14255662, y: 0.97633284, z: 0.16264008}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: audiomoboblock
+    100002: //RootNode
+    100004: Belnea
+    100006: Belnea#1
+    100008: Group 1
+    100010: Group 16
+    100012: Pivot
+    100014: Power port
+    100016: Screen
+    100018: Stand
+    100020: VGA port
+    400000: audiomoboblock
+    400002: //RootNode
+    400004: Belnea
+    400006: Belnea#1
+    400008: Group 1
+    400010: Group 16
+    400012: Pivot
+    400014: Power port
+    400016: Screen
+    400018: Stand
+    400020: VGA port
+    2300000: audiomoboblock
+    2300002: Belnea
+    2300004: Belnea#1
+    2300006: Pivot
+    2300008: Power port
+    2300010: Screen
+    2300012: Stand
+    2300014: VGA port
+    3300000: audiomoboblock
+    3300002: Belnea
+    3300004: Belnea#1
+    3300006: Pivot
+    3300008: Power port
+    3300010: Screen
+    3300012: Stand
+    3300014: VGA port
+    4300000: Mesh Screen
+    4300002: Mesh audiomoboblock
+    4300004: Mesh VGA port
+    4300006: Mesh Belnea
+    4300008: Mesh Power port
+    4300010: Mesh Belnea#1
+    4300012: Mesh Stand
+    4300014: Mesh Pivot
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

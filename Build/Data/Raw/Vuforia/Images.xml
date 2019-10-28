@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Ticket_2-01" size="1.000000 0.460000" />
+    <ImageTarget name="Know_your_software-01" size="1.000000 1.000000" />
+    <ImageTarget name="Computer_Riddle-01" size="1.000000 1.000000" />
+    <ImageTarget name="What_device_is_this-01" size="1.000000 1.000000" />
+    <ImageTarget name="Programming-01" size="1.000000 1.000000" />
+    <ImageTarget name="Keyboard-01" size="1.000000 1.000000" />
+    <ImageTarget name="MindblowingQnA-01-01" size="1.000000 1.000000" />
+    <ImageTarget name="dept_logo" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>

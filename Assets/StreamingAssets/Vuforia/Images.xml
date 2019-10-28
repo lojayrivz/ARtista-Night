@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Reset" size="1.000000 1.000000" />
+    <ImageTarget name="SecretTarget_Dare" size="1.000000 1.000000" />
+    <ImageTarget name="SecretTarget_Venue" size="1.000000 1.000000" />
+    <ImageTarget name="SecretTarget_Faculty" size="1.000000 1.000000" />
+    <ImageTarget name="KnowYourSoftware_Target" size="1.000000 1.000000" />
+    <ImageTarget name="MindBlowing_QnA_Q" size="1.000000 0.998890" />
+    <ImageTarget name="MindBlowing_QnA_Target" size="1.000000 1.001109" />
+    <ImageTarget name="ComputerRiddle_Target" size="1.000000 1.000000" />
+    <ImageTarget name="Programming__Q5" size="1.000000 1.000000" />
+    <ImageTarget name="Programming__Q4" size="1.000000 1.033333" />
+    <ImageTarget name="Programming_Q3" size="1.000000 1.000000" />
+    <ImageTarget name="Programming_Q2" size="1.000000 0.998889" />
+    <ImageTarget name="Programming__Q1" size="1.000000 0.988482" />
+    <ImageTarget name="Programming_Target" size="1.000000 1.004439" />
+    <ImageTarget name="What_Device_IC" size="1.000000 1.004435" />
+    <ImageTarget name="What_Device_Processor" size="1.000000 1.000000" />
+    <ImageTarget name="What_Device_PowerSupply" size="1.000000 1.013230" />
+    <ImageTarget name="What_Device_RasPi" size="1.000000 0.998890" />
+    <ImageTarget name="What_Device_Arduino" size="1.000000 0.984683" />
+    <ImageTarget name="What_Device_Target" size="1.000000 1.000000" />
+    <ImageTarget name="KeyBoard_Target" size="1.000000 1.000000" />
+    <ImageTarget name="Countdown" size="1.000000 1.579028" />
+    <ImageTarget name="Ticket" size="1.000000 0.460000" />
+  </Tracking>
+</QCARConfig>
